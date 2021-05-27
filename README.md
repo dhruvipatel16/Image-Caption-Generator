@@ -1,6 +1,13 @@
 # Image-Caption-Generator
 
-Dataset used in this projects are:
+Required libraries for Python
+* tensorflow
+* keras
+* pillow
+* numpy
+* tqdm
 
-+ Flicker 8k dataset
-+ Flicker 8k text
+Dataset used in this projects
+
+* Flicker 8k dataset
+* Flicker 8k text
