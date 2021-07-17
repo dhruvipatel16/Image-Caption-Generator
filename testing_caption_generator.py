@@ -51,8 +51,6 @@ def generate_desc(model, tokenizer, photo, max_length):
             break
     return in_text
 
-#from yt vd
-
 def upload_img():
     global img,image_data
     for img_display in frame.winfo_children():
