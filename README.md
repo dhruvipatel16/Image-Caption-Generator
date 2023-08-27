@@ -6,6 +6,7 @@ Required libraries for Python
 * pillow
 * numpy
 * tqdm
+* tkinter
 
 Dataset used in this projects
 
